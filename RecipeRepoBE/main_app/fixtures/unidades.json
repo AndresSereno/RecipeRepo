@@ -1,0 +1,50 @@
+[
+    {
+        "model": "main_app.Unidades",
+        "pk": 1,
+        "fields": {
+            "nombre": "Kilo/s",
+            "abreviacion": "Kg"
+        }
+    },
+    {
+        "model": "main_app.Unidades",
+        "pk": 2,
+        "fields": {
+            "nombre": "Litro/s",
+            "abreviacion": "Lts"
+        }
+    },
+    {
+        "model": "main_app.Unidades",
+        "pk": 3,
+        "fields": {
+            "nombre": "Gramo/s",
+            "abreviacion": "Grs"
+        }
+    },
+    {
+        "model": "main_app.Unidades",
+        "pk": 4,
+        "fields": {
+            "nombre": "Cucharada/s",
+            "abreviacion": "Cuch"
+        }
+    },
+    {
+        "model": "main_app.Unidades",
+        "pk": 5,
+        "fields": {
+            "nombre": "Taza/s",
+            "abreviacion": "Tz"
+        }
+    },
+    {
+        "model": "main_app.Unidades",
+        "pk": 6,
+        "fields": {
+            "nombre": "Unidad/es",
+            "abreviacion": "Un"
+        }
+    }
+]

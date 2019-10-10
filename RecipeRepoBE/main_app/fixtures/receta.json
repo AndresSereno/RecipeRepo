@@ -1,0 +1,34 @@
+[
+    {
+        "model": "main_app.Receta",
+        "pk": 1,
+        "fields": {
+            "nombre": "Milanesa con papas fritas",
+            "porciones": 4
+        }
+    },
+    {
+        "model": "main_app.Receta",
+        "pk": 2,
+        "fields": {
+            "nombre": "Bife de Chorizo a Caballo",
+            "porciones": 4
+        }
+    },
+    {
+        "model": "main_app.Receta",
+        "pk": 3,
+        "fields": {
+            "nombre": "Arroz con pollo",
+            "porciones": 6
+        }
+    },
+    {
+        "model": "main_app.Receta",
+        "pk": 4,
+        "fields": {
+            "nombre": "Pizza Napolitana",
+            "porciones": 6
+        }
+    }
+]

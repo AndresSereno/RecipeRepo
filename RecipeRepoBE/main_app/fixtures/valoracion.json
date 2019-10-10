@@ -1,0 +1,75 @@
+[
+    {
+        "model": "main_app.Valoracion",
+        "pk": 1,
+        "fields": {
+            "fecha":"2019-10-09 23:30:25",
+            "valoracion": 3,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Valoracion",
+        "pk": 2,
+        "fields": {
+            "fecha":"2019-10-09 23:30:25",
+            "valoracion": 4,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Valoracion",
+        "pk": 3,
+        "fields": {
+            "fecha":"2019-10-09 23:30:25",
+            "valoracion": 5,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Valoracion",
+        "pk": 4,
+        "fields": {
+            "fecha":"2019-10-09 23:30:25",
+            "valoracion": 4,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Valoracion",
+        "pk": 5,
+        "fields": {
+            "fecha":"2019-10-09 23:30:25",
+            "valoracion": 3,
+            "receta":2
+        }
+    },
+    {
+        "model": "main_app.Valoracion",
+        "pk": 6,
+        "fields": {
+            "fecha":"2019-10-09 23:30:25",
+            "valoracion": 4,
+            "receta":2
+        }
+    },
+    {
+        "model": "main_app.Valoracion",
+        "pk": 7,
+        "fields": {
+            "fecha":"2019-10-09 23:30:25",
+            "valoracion": 5,
+            "receta":3
+        }
+    },
+    {
+        "model": "main_app.Valoracion",
+        "pk": 8,
+        "fields": {
+            "fecha":"2019-10-09 23:30:25",
+            "valoracion": 4,
+            "receta":4
+        }
+    }
+
+]

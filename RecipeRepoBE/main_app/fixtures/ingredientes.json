@@ -1,0 +1,73 @@
+[
+    {
+        "model": "main_app.Ingredientes",
+        "pk": 1,
+        "fields": {
+            "descripcion": "Filetes de carne",
+            "cantidad": 4,
+            "unidad":6,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Ingredientes",
+        "pk": 2,
+        "fields": {
+            "descripcion": "Huevos",
+            "cantidad": 2,
+            "unidad":6,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Ingredientes",
+        "pk": 3,
+        "fields": {
+            "descripcion": "Leche",
+            "cantidad": 1,
+            "unidad":5,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Ingredientes",
+        "pk": 4,
+        "fields": {
+            "descripcion": "Pan Rallado",
+            "cantidad": 2,
+            "unidad":5,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Ingredientes",
+        "pk": 5,
+        "fields": {
+            "descripcion": "Papas",
+            "cantidad": 1,
+            "unidad":1,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Ingredientes",
+        "pk": 6,
+        "fields": {
+            "descripcion": "Bifes de chorizo",
+            "cantidad": 4,
+            "unidad":6,
+            "receta":2
+        }
+    },
+    {
+        "model": "main_app.Ingredientes",
+        "pk": 7,
+        "fields": {
+            "descripcion": "Huevos",
+            "cantidad": 4,
+            "unidad":6,
+            "receta":2
+        }
+    }
+
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "model": "main_app.Pasos",
+        "pk": 1,
+        "fields": {
+            "descripcion":"Salpimentar la carne",
+            "orden": 1,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Pasos",
+        "pk": 2,
+        "fields": {
+            "descripcion":"Mezclar la leche con el huevo",
+            "orden": 2,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Pasos",
+        "pk": 3,
+        "fields": {
+            "descripcion":"Pasar la carne por la mezcla y por el pan rallado",
+            "orden": 3,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Pasos",
+        "pk": 4,
+        "fields": {
+            "descripcion":"Freir o cocinar al horno",
+            "orden": 4,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Pasos",
+        "pk": 5,
+        "fields": {
+            "descripcion":"Pelar las papas y cortarlas en tiritas",
+            "orden": 5,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Pasos",
+        "pk": 6,
+        "fields": {
+            "descripcion":"Freir las papas",
+            "orden": 6,
+            "receta":1
+        }
+    },
+    {
+        "model": "main_app.Pasos",
+        "pk": 7,
+        "fields": {
+            "descripcion":"Cocinar los bifes en la plancha, salar al final",
+            "orden": 1,
+            "receta":2
+        }
+    },
+    {
+        "model": "main_app.Pasos",
+        "pk": 8,
+        "fields": {
+            "descripcion":"Hacer los huevos fritos a parte",
+            "orden": 2,
+            "receta":2
+        }
+    },
+    {
+        "model": "main_app.Pasos",
+        "pk": 9,
+        "fields": {
+            "descripcion":"Servir el huevo frito sobre la carne ",
+            "orden": 3,
+            "receta":2
+        }
+    }
+
+]
